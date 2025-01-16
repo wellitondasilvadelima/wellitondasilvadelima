@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 <!--
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Welcome to my GitHub profile! I'm Welliton da Silva de Lima, a passionate developer who loves technology, football, and gaming. 🚀  
 
 ## 🌟 About Me  
@@ -32,8 +33,6 @@ Welcome to my GitHub profile! I'm Welliton da Silva de Lima, a passionate develo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
- 
-<!--
 ## 📫 Contact Me  
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 📧 Email: your.email@example.com  
@@ -42,8 +41,6 @@ Welcome to my GitHub profile! I'm Welliton da Silva de Lima, a passionate develo
 
 ⭐ Feel free to explore my repositories and connect with me. Let's build something amazing together! 😊
 -->
-
----
 
 # Olá! 👋  
 Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima, um desenvolvedor apaixonado por tecnologia, futebol e jogos. 🚀  
