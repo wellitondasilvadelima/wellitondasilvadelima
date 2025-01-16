@@ -27,6 +27,11 @@ Welcome to my GitHub profile! I'm Welliton da Silva de Lima, a passionate develo
 - **Web Development:** HTML, CSS, JavaScript  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, VS Code
+
+  ## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
  
 <!--
 ## 📫 Contact Me  
@@ -37,3 +42,25 @@ Welcome to my GitHub profile! I'm Welliton da Silva de Lima, a passionate develo
 
 ⭐ Feel free to explore my repositories and connect with me. Let's build something amazing together! 😊
 -->
+
+---
+
+# Olá! 👋  
+Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima, um desenvolvedor apaixonado por tecnologia, futebol e jogos. 🚀  
+
+## 🌟 Sobre mim  
+- 🎓 **Graduado em Engenharia da Computação**  
+- ⚽ Apaixonado por futebol  
+- 🎮 Gamer nas horas vagas  
+- 🌱 Atualmente aprendendo **HTML e CSS**  
+
+## 🔧 Habilidades  
+- **Linguagens de Programação:** Python, C++  
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Bancos de Dados:** MySQL, MongoDB  
+- **Ferramentas:** Git, VS Code
+
+## 📈 Estatísticas do GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical) 
+
