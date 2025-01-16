@@ -54,7 +54,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima, um desenvolved
 ## 🔧 Habilidades  
 - **Linguagens de Programação:** Python, C++  
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Bancos de Dados:** MySQL, MongoDB  
+- **Bancos de Dados:** MySQL
 - **Ferramentas:** Git, VS Code
 
 ## 📈 Estatísticas do GitHub  
