@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm Welliton da Silva de Lima, a passionate develo
 -->
 
 # Olá! 👋  
-Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima, um desenvolvedor apaixonado por tecnologia. 🚀  
+Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima. 🚀  
 
 ## 🌟 Sobre mim  
 - 🎓 **Graduado em Engenharia da Computação**  
