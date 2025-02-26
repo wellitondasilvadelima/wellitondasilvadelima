@@ -49,11 +49,11 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima, um desenvolved
 - 🎓 **Graduado em Engenharia da Computação**  
 - ⚽ Apaixonado por futebol  
 - 🎮 Gamer nas horas vagas  
-- 🌱 Atualmente aprendendo **HTML e CSS**  
+- 🌱 Atualmente aprendendo **Django,C#.net**  
 
 ## 🔧 Habilidades  
 - **Linguagens de Programação:** Python, C++  
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Desenvolvimento Web:** HTML, CSS, Django
 - **Bancos de Dados:** MySQL
 - **Ferramentas:** Git, VS Code
 
