@@ -66,6 +66,6 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima. 🚀
 ### 🛠️ Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wellitondasilvadelima&layout=compact&langs_count=8&theme=dracula)
 
-### 🚀 Perfil GitHub Metrics
+<!--### 🚀 Perfil GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/wellitondasilvadelima)
-
+-->
