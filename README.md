@@ -57,7 +57,15 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima. 🚀
 - **Bancos de Dados:** MySQL
 - **Ferramentas:** Git, VS Code
 
-## 📈 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical) 
+### 📈 GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wellitondasilvadelima&show_icons=true&theme=dracula)
+
+### 🔥 Commits Recentes
+[![GitHub Streak](https://streak-stats.demolab.com?user=wellitondasilvadelima&theme=dracula)](https://git.io/streak-stats)
+
+### 🛠️ Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Swellitondasilvadelima&layout=compact&langs_count=8&theme=dracula)
+
+### 🚀 Perfil GitHub Metrics
+![Metrics](https://metrics.lecoq.io/wellitondasilvadelima)
 
