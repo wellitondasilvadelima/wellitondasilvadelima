@@ -60,9 +60,6 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima. 🚀
 ### 📈 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wellitondasilvadelima&show_icons=true&theme=dracula)
 
-### 🔥 Commits Recentes
-[![GitHub Streak](https://streak-stats.demolab.com?user=wellitondasilvadelima&theme=dracula)]
-
 ### 🛠️ Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wellitondasilvadelima&layout=compact&langs_count=8&theme=dracula)
 
