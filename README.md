@@ -47,15 +47,24 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima. 🚀
 
 ## 🌟 Sobre mim  
 - 🎓 **Graduado em Engenharia da Computação**  
-- ⚽ Apaixonado por futebol  
-- 🎮 Gamer nas horas vagas  
-- 🌱 Atualmente aprendendo **Django,C#.net**  
+Sou **Desenvolvedor Python** com habilidades em criar **aplicações web, automações em Python e dashboards interativos**. Tenho paixão por transformar ideias em soluções digitais eficientes.
 
-## 🔧 Habilidades  
-- **Linguagens de Programação:** Python, C++  
-- **Desenvolvimento Web:** HTML, CSS, Django
-- **Bancos de Dados:** MySQL
-- **Ferramentas:** Git, VS Code
+## 🛠 Tecnologias e ferramentas
+- **Linguagens:** Python, SQL;  
+- **Frameworks / Bibliotecas:** Django, Django Rest;  
+- **Banco de dados:** MySQL, PostgreSQL; 
+- **DevOps / Ferramentas:** Git, Docker;  
+- **Outros:** APIs, automação de processos, análise de dados.
+
+- ## 💻 Tipos de projetos
+- Sistemas web completos;
+- Automação de tarefas e coleta de dados;
+- Dashboards e relatórios analíticos.
+
+## 🌱 Estou aprendendo
+- C# .NET
+ 
+*"Apaixonado por aprender e criar soluções que fazem a diferença!"* 
 <!--
 ### 📈 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wellitondasilvadelima&show_icons=true&theme=dracula)
