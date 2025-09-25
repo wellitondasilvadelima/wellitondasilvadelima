@@ -46,8 +46,9 @@ Welcome to my GitHub profile! I'm Welliton da Silva de Lima, a passionate develo
 Bem-vindo ao meu perfil no GitHub! Sou Welliton da Silva de Lima. 🚀  
 
 ## 🌟 Sobre mim  
-- 🎓 **Graduado em Engenharia da Computação**  
-Sou **Desenvolvedor Python** com habilidades em criar **aplicações web, automações em Python e dashboards interativos**. Tenho paixão por transformar ideias em soluções digitais eficientes.
+- 🎓 **Graduado em Engenharia da Computação**
+
+- Sou **Desenvolvedor Python** com habilidades em desenvolver **aplicações web, automações em Python e dashboards interativos**. Tenho paixão por transformar ideias em soluções digitais eficientes.
 
 ## 🛠 Tecnologias e ferramentas
 - **Linguagens:** Python, SQL;  
